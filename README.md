@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [myportfolio](paulcedo.netlify.com)
+- 👨‍💻 All of my projects are available at [myportfolio](https://paulfolio.link)
 
 - 💬 Ask me about **laravel, vue**
 
